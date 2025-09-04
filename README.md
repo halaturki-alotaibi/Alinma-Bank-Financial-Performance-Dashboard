@@ -10,7 +10,7 @@ The final analysis is visualized using **Tableau** dashboards to highlight key t
 
 The project integrates data from three main sources:
 
-**SAMA (Saudi Central Bank) – Open data on the Saudi banking sector**.
+**SAMA (Saudi Central Bank) – Open data (oil prices, interest rates (Reverse Repo))**.
 https://www.sama.gov.sa/ar-sa/EconomicReports/Pages/database.aspx
 
 **Alinma Bank Investor Relations – Annual financial statements and reports published on the official website.**
